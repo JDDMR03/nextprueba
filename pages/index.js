@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <>
       <header>
-        <h1>JAJAJAJAJ</h1>
+        <h1>dios moreno</h1>
       </header>
     </>
   );
